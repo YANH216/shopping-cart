@@ -1,1 +1,1 @@
-VUE简单购物车
+VUE + vuex + vue-router
